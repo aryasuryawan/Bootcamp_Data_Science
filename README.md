@@ -1,4 +1,4 @@
-##
+# Belajar Data Science python
 # **Day 1 – Hello Python**
 
 Python adalah salah satu bahasa pemrograman yang sedang naik daun. Kepopulerannya terus meroket sejak tahun 2010. Python menjadi bahasa pemrograman yang mudah untuk dipelajari, termasuk bagi orang-orang yang baru belajar bahasa pemrograman.
